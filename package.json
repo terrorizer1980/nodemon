@@ -57,16 +57,16 @@
     "should": "~4.0.0"
   },
   "dependencies": {
-    "chokidar": "^3.5.2",
+    "chokidar": "^4.0.0",
     "debug": "^3.2.7",
     "ignore-by-default": "^1.0.1",
     "minimatch": "^3.0.4",
     "pstree.remy": "^1.1.8",
-    "semver": "^5.7.1",
+    "semver": "^5.7.2",
     "supports-color": "^5.5.0",
     "touch": "^3.1.0",
     "undefsafe": "^2.0.5",
-    "update-notifier": "^5.1.0"
+    "update-notifier": "^7.3.0"
   },
   "version": "0.0.0-development",
   "funding": {
